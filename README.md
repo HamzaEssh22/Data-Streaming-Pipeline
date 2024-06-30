@@ -3,10 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
-- [What You'll Learn](#what-youll-learn)
 - [Technologies](#technologies)
-- [Getting Started](#getting-started)
-- [Watch the Video Tutorial](#watch-the-video-tutorial)
 
 ## Introduction
 
